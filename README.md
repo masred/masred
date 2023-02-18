@@ -1,4 +1,6 @@
-## Hi, I'm Dwi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[<img src="https://komarev.com/ghpvc/?username=masred&color=green&style=flat-square&label=Profile+Views" align="right">](github.com/masred)
+
+## Hi, I'm Dwi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I have an interest and expertise in backend development.
 
