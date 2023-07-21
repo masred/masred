@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: masred/masred@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
@@ -27,11 +27,3 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          # commit
-          COMMIT_MESSAGE: Update waka-readme graph with new metrics
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Dwi Fitriyanto
-          AUTHOR_EMAIL: dwifitriyanto123@gmail.com
