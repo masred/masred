@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -19,8 +19,8 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
-          CODE_LANG: all_time 
+          BLOCKS: -|
+          CODE_LANG: all_time
           TIME_RANGE: true
           LANG_COUNT: 10
           SHOW_TIME: true
