@@ -11,12 +11,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: masred/waka-readme@main
+      - uses: masred/masred@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: masred/masred
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
