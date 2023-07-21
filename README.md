@@ -16,3 +16,8 @@ I have an interest and expertise in backend development.
 🔗 **Reach Me**
 
 [![linkedin](https://img.shields.io/badge/---?logo=linkedin&label=LinkedIn&style=social)](https://linkedin.com/in/dwifitriyanto)
+
+📊 **Activities**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
