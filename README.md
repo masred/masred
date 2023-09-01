@@ -22,20 +22,20 @@ I have an interest and expertise in backend development.
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Total Time: 25 hrs 8 mins
+Total Time: 22 hrs 2 mins
 
-Python                     10 hrs 43 mins  |||||||||||--------------   42.66 %
-XML                        5 hrs           |||||--------------------   19.89 %
-Docker                     4 hrs 10 mins   ||||---------------------   16.58 %
-YAML                       3 hrs 36 mins   ||||---------------------   14.32 %
-Bash                       41 mins         |------------------------   02.74 %
-ActionScript 3             32 mins         |------------------------   02.13 %
-PHP                        8 mins          -------------------------   00.59 %
-HTML                       5 mins          -------------------------   00.38 %
-SQL                        3 mins          -------------------------   00.22 %
-Markdown                   2 mins          -------------------------   00.18 %
+Python                     9 hrs 39 mins   |||||||||||--------------   43.83 %
+XML                        4 hrs 11 mins   |||||--------------------   19.01 %
+YAML                       3 hrs 54 mins   ||||---------------------   17.75 %
+Docker                     2 hrs 35 mins   |||----------------------   11.72 %
+Bash                       44 mins         |------------------------   03.39 %
+ActionScript 3             28 mins         |------------------------   02.14 %
+PHP                        8 mins          -------------------------   00.68 %
+ActionScript               5 mins          -------------------------   00.45 %
+HTML                       5 mins          -------------------------   00.43 %
+Markdown                   2 mins          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
