@@ -22,17 +22,15 @@ I have an interest and expertise in backend development.
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 November 2023 - To: 05 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 21 hrs 9 mins
+Total Time: 20 hrs 3 mins
 
-SQL          9 hrs 34 mins   |||||||||||--------------   45.27 %
-Python       9 hrs 17 mins   |||||||||||--------------   43.92 %
-XML          1 hr 33 mins    ||-----------------------   07.36 %
-JavaScript   38 mins         |------------------------   03.01 %
-CSV          4 mins          -------------------------   00.34 %
-HTML         0 secs          -------------------------   00.07 %
-JSON         0 secs          -------------------------   00.04 %
+SQL          9 hrs 4 mins    |||||||||||--------------   45.23 %
+Python       9 hrs 3 mins    |||||||||||--------------   45.20 %
+XML          1 hr 37 mins    ||-----------------------   08.13 %
+CSV          9 mins          -------------------------   00.76 %
+JavaScript   8 mins          -------------------------   00.67 %
 ```
 
 <!--END_SECTION:waka-->
