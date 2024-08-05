@@ -22,20 +22,20 @@ I have an interest and expertise in backend development.
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 July 2024 - To: 03 August 2024
+From: 28 July 2024 - To: 04 August 2024
 
-Total Time: 30 hrs 49 mins
+Total Time: 31 hrs 41 mins
 
-Go           21 hrs 34 mins  |||||||||||||||||--------   69.92 %
-templ        6 hrs 1 min     |||||--------------------   19.54 %
-Python       59 mins         |------------------------   03.24 %
-XML          31 mins         -------------------------   01.70 %
-JavaScript   25 mins         -------------------------   01.40 %
-SQL          25 mins         -------------------------   01.37 %
-SSH Config   19 mins         -------------------------   01.03 %
-JSON         17 mins         -------------------------   00.96 %
-Markdown     13 mins         -------------------------   00.74 %
-Other        1 min           -------------------------   00.08 %
+Go           20 hrs 46 mins  ||||||||||||||||---------   65.49 %
+templ        7 hrs 45 mins   ||||||-------------------   24.46 %
+Python       59 mins         |------------------------   03.15 %
+XML          31 mins         -------------------------   01.65 %
+JavaScript   30 mins         -------------------------   01.59 %
+SSH Config   19 mins         -------------------------   01.00 %
+JSON         17 mins         -------------------------   00.93 %
+SQL          17 mins         -------------------------   00.90 %
+Markdown     13 mins         -------------------------   00.72 %
+Other        1 min           -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
