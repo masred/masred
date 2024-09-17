@@ -13,6 +13,8 @@
 ![postgresql](https://img.shields.io/badge/---?logo=postgresql&label=PostgreSQL&style=social)
 ![linux](https://img.shields.io/badge/---?logo=linux&label=Linux&style=social)
 ![ubuntu](https://img.shields.io/badge/---?logo=ubuntu&label=Ubuntu&style=social)
+![google-cloud](https://img.shields.io/badge/---?logo=google-cloud&label=Google+Cloud&style=social)
+![amazon-web-services](https://img.shields.io/badge/---?logo=amazon-web-services&label=AWS&style=social)
 ![nginx](https://img.shields.io/badge/---?logo=nginx&label=NGINX&style=social)
 ![redis](https://img.shields.io/badge/---?logo=redis&label=Redis&style=social)
 ![mysql](https://img.shields.io/badge/---?logo=mysql&label=MySQL&style=social)
