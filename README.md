@@ -37,20 +37,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 September 2024 - To: 01 October 2024
+From: 25 September 2024 - To: 02 October 2024
 
-Total Time: 5 hrs 51 mins
+Total Time: 5 hrs 59 mins
 
-Vue.js        4 hrs 18 mins   ||||||||||||||||||-------   73.59 %
-Markdown      30 mins         ||-----------------------   08.67 %
-templ         22 mins         ||-----------------------   06.30 %
-Go            14 mins         |------------------------   04.24 %
-JavaScript    12 mins         |------------------------   03.47 %
-Image (svg)   5 mins          -------------------------   01.46 %
-Python        3 mins          -------------------------   00.99 %
-JSON          3 mins          -------------------------   00.92 %
+Vue.js        4 hrs 21 mins   ||||||||||||||||||-------   72.79 %
+Markdown      30 mins         ||-----------------------   08.49 %
+templ         18 mins         |------------------------   05.20 %
+Go            12 mins         |------------------------   03.44 %
+JavaScript    12 mins         |------------------------   03.39 %
+Python        8 mins          |------------------------   02.27 %
+HTML          6 mins          -------------------------   01.79 %
+Image (svg)   5 mins          -------------------------   01.42 %
+JSON          3 mins          -------------------------   00.90 %
 Git Config    0 secs          -------------------------   00.23 %
-TypeScript    0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
