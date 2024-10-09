@@ -37,18 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 6 hrs 26 mins
+Total Time: 9 hrs 21 mins
 
-Go           4 hrs 5 mins    ||||||||||||||||---------   62.40 %
-templ        1 hr 6 mins     ||||---------------------   16.85 %
-HTML         19 mins         |------------------------   04.86 %
-Markdown     14 mins         |------------------------   03.81 %
-JSON         14 mins         |------------------------   03.74 %
-Python       10 mins         |------------------------   02.68 %
-Vue.js       7 mins          |------------------------   02.03 %
-Other        6 mins          -------------------------   01.62 %
+Go           6 hrs 43 mins   ||||||||||||||||||-------   70.44 %
+templ        1 hr 36 mins    ||||---------------------   16.89 %
+HTML         20 mins         |------------------------   03.60 %
+JSON         14 mins         |------------------------   02.57 %
+Vue.js       11 mins         -------------------------   01.96 %
+Other        10 mins         -------------------------   01.92 %
 ```
 
 <!--END_SECTION:waka-->
