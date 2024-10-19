@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-Total Time: 14 hrs 7 mins
+Total Time: 12 hrs 10 mins
 
-Go           12 hrs 13 mins  |||||||||||||||||||||----   85.25 %
-Python       1 hr            ||-----------------------   07.04 %
-XML          22 mins         |------------------------   02.61 %
-Bash         21 mins         |------------------------   02.54 %
-Other        13 mins         -------------------------   01.53 %
+Go           10 hrs 16 mins  |||||||||||||||||||||----   83.06 %
+Python       1 hr            ||-----------------------   08.15 %
+XML          23 mins         |------------------------   03.16 %
+Bash         21 mins         |------------------------   02.93 %
+Other        12 mins         -------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
