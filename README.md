@@ -37,13 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Total Time: 5 hrs 18 mins
+Total Time: 4 hrs 33 mins
 
-Go      5 hrs 17 mins   |||||||||||||||||||||||||   99.63 %
-Bash    0 secs          -------------------------   00.22 %
-Other   0 secs          -------------------------   00.10 %
+Go       3 hrs 42 mins   ||||||||||||||||||||-----   81.10 %
+Vue.js   50 mins         |||||--------------------   18.54 %
+Bash     0 secs          -------------------------   00.25 %
+Other    0 secs          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
