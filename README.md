@@ -37,17 +37,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 October 2024 - To: 27 October 2024
+From: 21 October 2024 - To: 28 October 2024
 
-Total Time: 9 hrs 36 mins
+Total Time: 11 hrs 4 mins
 
-Go           3 hrs 57 mins   ||||||||||---------------   40.43 %
-YAML         2 hrs 23 mins   ||||||-------------------   24.44 %
-Vue.js       1 hr 36 mins    ||||---------------------   16.46 %
-templ        35 mins         ||-----------------------   06.08 %
-Bash         35 mins         |------------------------   05.99 %
-TypeScript   21 mins         |------------------------   03.73 %
-Other        10 mins         -------------------------   01.76 %
+Go           4 hrs 52 mins   |||||||||||--------------   43.31 %
+YAML         2 hrs 23 mins   |||||--------------------   21.24 %
+Vue.js       1 hr 36 mins    ||||---------------------   14.35 %
+TypeScript   39 mins         |------------------------   05.82 %
+templ        35 mins         |------------------------   05.31 %
+Bash         34 mins         |------------------------   05.10 %
+JSON         12 mins         -------------------------   01.79 %
+Other        10 mins         -------------------------   01.54 %
 ```
 
 <!--END_SECTION:waka-->
