@@ -37,18 +37,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-Total Time: 23 hrs 36 mins
+Total Time: 22 hrs 21 mins
 
-Go           16 hrs 50 mins  ||||||||||||||||||-------   71.18 %
-TypeScript   3 hrs 5 mins    |||----------------------   13.05 %
-MDX          1 hr 33 mins    ||-----------------------   06.58 %
-JSON         56 mins         |------------------------   04.00 %
-Vue.js       39 mins         |------------------------   02.79 %
-Svelte       14 mins         -------------------------   01.01 %
-YAML         8 mins          -------------------------   00.61 %
-Other        2 mins          -------------------------   00.20 %
+Go           16 hrs 50 mins  |||||||||||||||||||------   75.22 %
+TypeScript   2 hrs 47 mins   |||----------------------   12.46 %
+MDX          1 hr 33 mins    ||-----------------------   06.96 %
+JSON         53 mins         |------------------------   04.02 %
+YAML         8 mins          -------------------------   00.65 %
+JavaScript   2 mins          -------------------------   00.20 %
+SQL          1 min           -------------------------   00.14 %
+Other        1 min           -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
