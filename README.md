@@ -37,17 +37,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Total Time: 15 hrs 8 mins
+Total Time: 12 hrs 27 mins
 
-Go           10 hrs 16 mins  |||||||||||||||||--------   67.60 %
-Python       3 hrs 18 mins   |||||--------------------   21.77 %
-JSON         37 mins         |------------------------   04.09 %
-Bash         36 mins         |------------------------   04.04 %
-templ        9 mins          -------------------------   01.08 %
-YAML         5 mins          -------------------------   00.56 %
-Other        3 mins          -------------------------   00.43 %
+Go           8 hrs 37 mins   |||||||||||||||||--------   69.05 %
+Python       2 hrs 18 mins   |||||--------------------   18.53 %
+Bash         31 mins         |------------------------   04.21 %
+JSON         28 mins         |------------------------   03.77 %
+YAML         16 mins         |------------------------   02.23 %
+templ        9 mins          -------------------------   01.32 %
+JavaScript   3 mins          -------------------------   00.40 %
+Other        2 mins          -------------------------   00.29 %
 ```
 
 <!--END_SECTION:waka-->
