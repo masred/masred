@@ -37,15 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-Total Time: 2 hrs 9 mins
+Total Time: 5 hrs 1 min
 
-Python   1 hr 50 mins    |||||||||||||||||||||----   85.06 %
-Go       9 mins          ||-----------------------   07.24 %
-XML      6 mins          |------------------------   04.82 %
-JSON     3 mins          |------------------------   02.59 %
-Other    0 secs          -------------------------   00.28 %
+Go           2 hrs 28 mins   ||||||||||||-------------   48.88 %
+Python       2 hrs 9 mins    |||||||||||--------------   42.73 %
+Markdown     13 mins         |------------------------   04.51 %
+JSON         5 mins          -------------------------   01.87 %
+Git Config   3 mins          -------------------------   01.04 %
+Other        1 min           -------------------------   00.65 %
 ```
 
 <!--END_SECTION:waka-->
