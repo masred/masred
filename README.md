@@ -37,16 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Total Time: 12 hrs 31 mins
+Total Time: 15 hrs 43 mins
 
-Go           4 hrs 53 mins   |||||||||----------------   37.70 %
-Python       3 hrs 49 mins   |||||||------------------   29.49 %
-HTML         55 mins         ||-----------------------   07.08 %
-TypeScript   52 mins         ||-----------------------   06.72 %
-Markdown     47 mins         ||-----------------------   06.05 %
-Other        26 mins         |------------------------   03.38 %
+Go           5 hrs 54 mins   |||||||||----------------   35.97 %
+Python       3 hrs 50 mins   ||||||-------------------   23.39 %
+TypeScript   2 hrs 4 mins    |||----------------------   12.64 %
+HTML         56 mins         |------------------------   05.78 %
+Markdown     53 mins         |------------------------   05.41 %
+Other        41 mins         |------------------------   04.17 %
 ```
 
 <!--END_SECTION:waka-->
