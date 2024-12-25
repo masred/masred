@@ -37,16 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-Total Time: 4 hrs 39 mins
+Total Time: 2 hrs 37 mins
 
-YAML         3 hrs 20 mins   ||||||||||||||||||-------   70.57 %
-Go           54 mins         |||||--------------------   19.16 %
-Docker       10 mins         |------------------------   03.59 %
-HCL          4 mins          -------------------------   01.45 %
-Bash         4 mins          -------------------------   01.44 %
-Other        3 mins          -------------------------   01.35 %
+YAML         1 hr 11 mins    |||||||||||--------------   44.66 %
+Go           54 mins         ||||||||-----------------   33.97 %
+Bash         14 mins         ||-----------------------   09.14 %
+Docker       10 mins         ||-----------------------   06.37 %
+HCL          4 mins          |------------------------   02.57 %
+Other        2 mins          -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
