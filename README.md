@@ -37,14 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 4 hrs 12 mins
+Total Time: 3 hrs 44 mins
 
-Go      3 hrs 46 mins   ||||||||||||||||||||||---   88.38 %
-YAML    15 mins         ||-----------------------   06.02 %
-templ   9 mins          |------------------------   03.56 %
-Other   4 mins          -------------------------   01.64 %
+Go           3 hrs 15 mins   |||||||||||||||||||||----   85.55 %
+YAML         17 mins         ||-----------------------   07.64 %
+templ        9 mins          |------------------------   03.99 %
+Other        4 mins          -------------------------   01.84 %
 ```
 
 <!--END_SECTION:waka-->
