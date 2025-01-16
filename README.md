@@ -37,15 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 26 mins
 
-MDX          54 mins         ||||||||||||-------------   49.80 %
-Go           20 mins         |||||--------------------   18.68 %
-YAML         12 mins         |||----------------------   10.97 %
-SSH Config   11 mins         |||----------------------   10.89 %
-Other        5 mins          |------------------------   05.03 %
+MDX          54 mins         |||||||||||||||----------   59.58 %
+YAML         14 mins         ||||---------------------   16.15 %
+SSH Config   11 mins         |||----------------------   13.03 %
+Other        5 mins          |------------------------   05.95 %
 ```
 
 <!--END_SECTION:waka-->
