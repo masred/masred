@@ -37,12 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Total Time: 17 mins
+Total Time: 38 mins
 
-YAML    13 mins         |||||||||||||||----------   59.26 %
-Other   5 mins          ||||||-------------------   23.43 %
+JSON         19 mins         ||||||||||||-------------   49.92 %
+YAML         7 mins          |||||--------------------   20.15 %
+Go           7 mins          |||||--------------------   19.66 %
+HCL          1 min           |------------------------   03.33 %
+Bash         1 min           |------------------------   03.26 %
+Markdown     0 secs          |------------------------   02.25 %
+Other        0 secs          -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
