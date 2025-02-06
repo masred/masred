@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 8 hrs 9 mins
+Total Time: 9 hrs 18 mins
 
-Go      7 hrs 18 mins   ||||||||||||||||||||||---   88.11 %
-YAML    51 mins         |||----------------------   10.30 %
-Other   7 mins          -------------------------   01.59 %
+Go           8 hrs 4 mins    |||||||||||||||||||||----   84.48 %
+YAML         1 hr 5 mins     |||----------------------   11.35 %
+Other        15 mins         |------------------------   02.65 %
 ```
 
 <!--END_SECTION:waka-->
