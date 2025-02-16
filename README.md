@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
 Total Time: 5 hrs 42 mins
 
