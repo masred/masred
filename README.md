@@ -37,14 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Total Time: 3 hrs 52 mins
+Total Time: 2 hrs 24 mins
 
-Go       1 hr 53 mins    |||||||||||--------------   45.54 %
-Python   1 hr 36 mins    ||||||||||---------------   38.85 %
-YAML     20 mins         ||-----------------------   08.07 %
-Other    16 mins         ||-----------------------   06.64 %
+Python   1 hr 42 mins    ||||||||||||||||||-------   71.04 %
+Go       36 mins         ||||||-------------------   25.06 %
+XML      5 mins          |------------------------   03.67 %
+Bash     0 secs          -------------------------   00.21 %
+Docker   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
