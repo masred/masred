@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 February 2025 - To: 27 February 2025
+From: 21 February 2025 - To: 28 February 2025
 
-Total Time: 5 hrs 15 mins
+Total Time: 3 hrs 30 mins
 
-Python   5 hrs 2 mins    ||||||||||||||||||||||||-   95.83 %
-XML      13 mins         |------------------------   04.17 %
+Python   3 hrs 17 mins   |||||||||||||||||||||||--   93.76 %
+XML      13 mins         ||-----------------------   06.24 %
 ```
 
 <!--END_SECTION:waka-->
