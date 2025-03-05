@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Total Time: 3 hrs 35 mins
+Total Time: 3 hrs 50 mins
 
-Python   3 hrs 17 mins   |||||||||||||||||||||||--   91.40 %
-XML      13 mins         ||-----------------------   06.09 %
-HCL      3 mins          -------------------------   01.40 %
-Go       2 mins          -------------------------   01.03 %
-SQL      0 secs          -------------------------   00.09 %
+Python   3 hrs 17 mins   |||||||||||||||||||||----   85.51 %
+SQL      15 mins         ||-----------------------   06.52 %
+XML      13 mins         |------------------------   05.70 %
+HCL      3 mins          -------------------------   01.31 %
+Go       2 mins          -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
