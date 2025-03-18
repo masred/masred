@@ -37,17 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 5 hrs 7 mins
+Total Time: 4 hrs 25 mins
 
-Go           1 hr 34 mins    ||||||||-----------------   30.50 %
-YAML         1 hr 23 mins    |||||||------------------   26.84 %
-Python       1 hr 11 mins    ||||||-------------------   23.02 %
-Markdown     28 mins         ||-----------------------   09.03 %
-XML          24 mins         ||-----------------------   08.01 %
-Bash         3 mins          -------------------------   01.09 %
-Other        3 mins          -------------------------   01.09 %
+Go           2 hrs           |||||||||||--------------   44.29 %
+YAML         1 hr 51 mins    ||||||||||---------------   41.01 %
+Markdown     28 mins         |||----------------------   10.34 %
+Other        7 mins          |------------------------   02.60 %
 ```
 
 <!--END_SECTION:waka-->
