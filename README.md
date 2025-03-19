@@ -37,14 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 4 hrs 25 mins
+Total Time: 3 hrs 46 mins
 
-Go           2 hrs           |||||||||||--------------   44.29 %
-YAML         1 hr 51 mins    ||||||||||---------------   41.01 %
-Markdown     28 mins         |||----------------------   10.34 %
-Other        7 mins          |------------------------   02.60 %
+YAML       2 hrs 13 mins   ||||||||||||||-----------   56.96 %
+Go         1 hr 18 mins    ||||||||-----------------   33.47 %
+Markdown   11 mins         |------------------------   04.93 %
+Other      7 mins          |------------------------   03.02 %
 ```
 
 <!--END_SECTION:waka-->
