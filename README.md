@@ -37,15 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Total Time: 6 hrs 47 mins
+Total Time: 7 hrs 7 mins
 
-Python   3 hrs 43 mins   ||||||||||||||-----------   54.44 %
-SCSS     1 hr 28 mins    |||||--------------------   21.62 %
-XML      45 mins         |||----------------------   11.16 %
-Go       45 mins         |||----------------------   11.12 %
-Other    2 mins          -------------------------   00.67 %
+SCSS     3 hrs 57 mins   ||||||||||||||-----------   55.63 %
+Python   1 hr 58 mins    |||||||------------------   27.69 %
+XML      36 mins         ||-----------------------   08.56 %
+Go       32 mins         ||-----------------------   07.49 %
+Bash     1 min           -------------------------   00.43 %
+Other    0 secs          -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
