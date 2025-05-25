@@ -37,14 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
-Total Time: 39 hrs 49 mins
+Total Time: 34 hrs 19 mins
 
-Go           21 hrs 29 mins  |||||||||||||------------   53.31 %
-Python       13 hrs 43 mins  |||||||||----------------   34.03 %
-HTML         2 hrs 44 mins   ||-----------------------   06.81 %
-Other        29 mins         -------------------------   01.23 %
+Python       14 hrs 16 mins  ||||||||||---------------   40.98 %
+Go           12 hrs 48 mins  |||||||||----------------   36.78 %
+HTML         2 hrs 52 mins   ||-----------------------   08.28 %
+TypeScript   1 hr 24 mins    |------------------------   04.04 %
+Svelte       1 hr 1 min      |------------------------   02.96 %
+Other        29 mins         -------------------------   01.40 %
 ```
 
 <!--END_SECTION:waka-->
