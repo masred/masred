@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 30 hrs 34 mins
+Total Time: 33 hrs 6 mins
 
-Go       12 hrs 53 mins  ||||||||||---------------   39.32 %
-Python   10 hrs 21 mins  ||||||||-----------------   31.62 %
-XML      3 hrs 29 mins   |||----------------------   10.67 %
-JSON     2 hrs 46 mins   ||-----------------------   08.47 %
-Other    2 hrs 12 mins   ||-----------------------   06.72 %
+Go           14 hrs 17 mins  ||||||||||---------------   41.62 %
+Python       11 hrs 14 mins  ||||||||-----------------   32.74 %
+XML          3 hrs 49 mins   |||----------------------   11.13 %
+JSON         2 hrs 29 mins   ||-----------------------   07.28 %
+Other        1 hr 13 mins    |------------------------   03.57 %
 ```
 
 <!--END_SECTION:waka-->
