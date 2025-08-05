@@ -37,18 +37,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 23 hrs 54 mins
+Total Time: 20 hrs 13 mins
 
-JavaScript        7 hrs 22 mins   ||||||||-----------------   30.31 %
-Go                6 hrs 47 mins   |||||||------------------   27.91 %
-JSON              3 hrs           |||----------------------   12.38 %
-Python            2 hrs 48 mins   |||----------------------   11.56 %
-HTML              1 hr 32 mins    ||-----------------------   06.31 %
-Java Properties   1 hr 8 mins     |------------------------   04.71 %
-Bash              49 mins         |------------------------   03.39 %
-Other             26 mins         -------------------------   01.83 %
+JavaScript        6 hrs 51 mins   ||||||||-----------------   33.64 %
+Go                6 hrs 42 mins   ||||||||-----------------   32.92 %
+JSON              2 hrs 28 mins   |||----------------------   12.12 %
+HTML              1 hr 33 mins    ||-----------------------   07.61 %
+Bash              56 mins         |------------------------   04.65 %
+Java Properties   54 mins         |------------------------   04.46 %
+Python            40 mins         |------------------------   03.32 %
+Other             9 mins          -------------------------   00.77 %
 ```
 
 <!--END_SECTION:waka-->
