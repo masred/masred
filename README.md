@@ -37,15 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 August 2025 - To: 31 August 2025
+From: 25 August 2025 - To: 01 September 2025
 
-Total Time: 6 hrs 50 mins
+Total Time: 7 hrs 47 mins
 
-Go           3 hrs 57 mins   ||||||||||||||-----------   55.95 %
-JavaScript   1 hr 45 mins    ||||||-------------------   24.92 %
-JSON         20 mins         |------------------------   04.90 %
-CSS          15 mins         |------------------------   03.64 %
-Other        13 mins         |------------------------   03.24 %
+Go           4 hrs 56 mins   |||||||||||||||----------   61.68 %
+JavaScript   1 hr 50 mins    ||||||-------------------   23.07 %
+CSS          15 mins         |------------------------   03.21 %
+Other        13 mins         |------------------------   02.86 %
 ```
 
 <!--END_SECTION:waka-->
