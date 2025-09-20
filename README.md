@@ -37,18 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Total Time: 2 hrs 47 mins
+Total Time: 3 hrs 2 mins
 
-HTML         1 hr 48 mins    ||||||||||||||||---------   64.61 %
-Python       28 mins         ||||---------------------   16.85 %
-Go           12 mins         ||-----------------------   07.46 %
-Svelte       5 mins          |------------------------   03.52 %
-Text         5 mins          |------------------------   03.11 %
-TypeScript   5 mins          |------------------------   03.06 %
-Git Config   1 min           -------------------------   01.01 %
-Other        0 secs          -------------------------   00.31 %
+HTML         1 hr 48 mins    |||||||||||||||----------   58.56 %
+Python       28 mins         ||||---------------------   15.27 %
+Go           25 mins         |||----------------------   13.84 %
+Svelte       5 mins          |------------------------   03.19 %
+Text         5 mins          |------------------------   02.82 %
+TypeScript   5 mins          |------------------------   02.77 %
+Other        3 mins          -------------------------   01.63 %
 ```
 
 <!--END_SECTION:waka-->
