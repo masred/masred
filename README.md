@@ -37,17 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 3 hrs 2 mins
+Total Time: 1 hr 37 mins
 
-HTML         1 hr 48 mins    |||||||||||||||----------   58.56 %
-Python       28 mins         ||||---------------------   15.27 %
-Go           25 mins         |||----------------------   13.84 %
-Svelte       5 mins          |------------------------   03.19 %
-Text         5 mins          |------------------------   02.82 %
-TypeScript   5 mins          |------------------------   02.77 %
-Other        3 mins          -------------------------   01.63 %
+HTML        39 mins         ||||||||||---------------   38.13 %
+Go          21 mins         |||||--------------------   21.23 %
+YAML        19 mins         |||||--------------------   19.31 %
+Python      12 mins         |||----------------------   12.37 %
+Other       5 mins          |------------------------   05.46 %
 ```
 
 <!--END_SECTION:waka-->
