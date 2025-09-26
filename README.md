@@ -37,15 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Total Time: 1 hr 17 mins
+Total Time: 47 mins
 
-Go          21 mins         |||||||------------------   26.21 %
-YAML        19 mins         ||||||-------------------   23.84 %
-HTML        19 mins         ||||||-------------------   23.61 %
-Python      12 mins         ||||---------------------   15.27 %
-Other       5 mins          ||-----------------------   06.75 %
+Go          21 mins         ||||||||||---------------   40.94 %
+YAML        19 mins         |||||||||----------------   37.23 %
+Other       5 mins          |||----------------------   10.54 %
 ```
 
 <!--END_SECTION:waka-->
