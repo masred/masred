@@ -37,13 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 September 2025 - To: 30 September 2025
+From: 25 September 2025 - To: 02 October 2025
 
-Total Time: 3 hrs 37 mins
+Total Time: 8 hrs 56 mins
 
-Go      1 hr 58 mins    ||||||||||||||-----------   54.53 %
-YAML    1 hr 38 mins    |||||||||||--------------   45.09 %
-Other   0 secs          -------------------------   00.39 %
+Go      6 hrs 36 mins   ||||||||||||||||||-------   73.72 %
+YAML    1 hr 40 mins    |||||--------------------   18.75 %
+Bash    38 mins         ||-----------------------   07.18 %
+Other   1 min           -------------------------   00.32 %
 ```
 
 <!--END_SECTION:waka-->
