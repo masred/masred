@@ -37,13 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 1 hr 7 mins
+Total Time: 2 hrs 48 mins
 
-Go         50 mins         |||||||||||||||||||------   75.23 %
-SQL        10 mins         ||||---------------------   15.11 %
-Markdown   6 mins          ||-----------------------   09.65 %
+Go           1 hr 38 mins    ||||||||||||||-----------   57.58 %
+YAML         37 mins         ||||||-------------------   22.13 %
+TypeScript   13 mins         ||-----------------------   07.73 %
+SQL          11 mins         ||-----------------------   06.68 %
+Other        3 mins          |------------------------   02.10 %
 ```
 
 <!--END_SECTION:waka-->
