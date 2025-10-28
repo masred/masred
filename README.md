@@ -37,16 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 4 hrs 3 mins
+Total Time: 1 hr 34 mins
 
-Go                1 hr 59 mins    ||||||||||||-------------   48.63 %
-Python            47 mins         |||||--------------------   19.42 %
-Java Properties   44 mins         |||||--------------------   18.09 %
-Bash              23 mins         ||-----------------------   09.40 %
-HTML              6 mins          |------------------------   02.58 %
-Other             2 mins          -------------------------   00.86 %
+Python            47 mins         |||||||||||||------------   50.36 %
+Java Properties   28 mins         |||||||------------------   29.77 %
+Go                12 mins         |||----------------------   13.17 %
+HTML              6 mins          ||-----------------------   06.47 %
+Text              0 secs          -------------------------   00.15 %
+Bash              0 secs          -------------------------   00.05 %
+Other             0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
