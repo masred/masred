@@ -37,12 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
 Total Time: 17 mins
 
-Svelte       13 mins         |||||||||||||||||||------   75.29 %
-JavaScript   4 mins          ||||||-------------------   24.71 %
+Svelte            13 mins         ||||||||||||||||||-------   72.74 %
+JavaScript        4 mins          ||||||-------------------   23.87 %
+Java Properties   0 secs          |------------------------   03.00 %
+Go                0 secs          -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
