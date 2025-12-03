@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 November 2025 - To: 30 November 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Total Time: 11 hrs 30 mins
+Total Time: 7 hrs 21 mins
 
-Go             10 hrs 14 mins  ||||||||||||||||||||||---   88.90 %
-Bash           1 hr 8 mins     ||-----------------------   09.91 %
-Git Config     6 mins          -------------------------   00.89 %
-shell script   1 min           -------------------------   00.19 %
-YAML           0 secs          -------------------------   00.11 %
+Go             6 hrs 8 mins    |||||||||||||||||||||----   83.51 %
+Bash           1 hr 5 mins     ||||---------------------   14.92 %
+Git Config     6 mins          -------------------------   01.40 %
+YAML           0 secs          -------------------------   00.17 %
+shell script   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
