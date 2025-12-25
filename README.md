@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 19 hrs 29 mins
+Total Time: 17 hrs 50 mins
 
-Go             18 hrs 28 mins  |||||||||||||||||||||||--   92.69 %
-Bash           47 mins         |------------------------   03.95 %
-Other          26 mins         |------------------------   02.25 %
+Go             16 hrs 41 mins  |||||||||||||||||||||||--   91.59 %
+Bash           41 mins         |------------------------   03.78 %
+Other          23 mins         |------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
