@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 24 hrs 59 mins
+Total Time: 30 hrs 13 mins
 
-Go             22 hrs 26 mins  ||||||||||||||||||||||---   87.75 %
-JSON           1 hr 15 mins    |------------------------   04.90 %
-Other          35 mins         |------------------------   02.30 %
+Go             27 hrs 28 mins  ||||||||||||||||||||||---   89.17 %
+JSON           1 hr 16 mins    |------------------------   04.15 %
+Other          34 mins         -------------------------   01.86 %
 ```
 
 <!--END_SECTION:waka-->
