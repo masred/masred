@@ -37,13 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Total Time: 30 hrs 13 mins
+Total Time: 32 hrs 2 mins
 
-Go             27 hrs 28 mins  ||||||||||||||||||||||---   89.17 %
-JSON           1 hr 16 mins    |------------------------   04.15 %
-Other          34 mins         -------------------------   01.86 %
+Go           28 hrs 40 mins  ||||||||||||||||||||||---   88.42 %
+JSON         1 hr 27 mins    |------------------------   04.49 %
+SQL          51 mins         |------------------------   02.64 %
+Docker       29 mins         -------------------------   01.49 %
+Other        23 mins         -------------------------   01.19 %
 ```
 
 <!--END_SECTION:waka-->
