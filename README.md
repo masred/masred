@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 48 hrs 5 mins
+Total Time: 44 hrs 15 mins
 
-Go           32 hrs 30 mins  ||||||||||||||||---------   65.50 %
-YAML         5 hrs 12 mins   |||----------------------   10.50 %
-SQL          3 hrs 26 mins   ||-----------------------   06.93 %
-Docker       2 hrs 59 mins   ||-----------------------   06.03 %
-Other        1 hr 31 mins    |------------------------   03.09 %
+Go           28 hrs 2 mins   |||||||||||||||----------   60.88 %
+YAML         5 hrs 35 mins   |||----------------------   12.14 %
+SQL          3 hrs 12 mins   ||-----------------------   06.95 %
+Docker       3 hrs 6 mins    ||-----------------------   06.75 %
+Other        1 hr 47 mins    |------------------------   03.91 %
 ```
 
 <!--END_SECTION:waka-->
