@@ -37,16 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 33 hrs 10 mins
+Total Time: 28 hrs 45 mins
 
-Go           19 hrs 31 mins  ||||||||||||||-----------   56.09 %
-YAML         5 hrs 23 mins   ||||---------------------   15.48 %
-SQL          2 hrs 16 mins   ||-----------------------   06.55 %
-Docker       2 hrs 10 mins   ||-----------------------   06.27 %
-Caddyfile    1 hr 57 mins    |------------------------   05.62 %
-Other        1 hr 38 mins    |------------------------   04.72 %
+Go           14 hrs 46 mins  ||||||||||||-------------   49.37 %
+Svelte       4 hrs 9 mins    |||----------------------   13.92 %
+YAML         2 hrs 10 mins   ||-----------------------   07.29 %
+Caddyfile    1 hr 50 mins    ||-----------------------   06.16 %
+Docker       1 hr 25 mins    |------------------------   04.77 %
+SQL          1 hr 20 mins    |------------------------   04.48 %
+Other        1 hr 9 mins     |------------------------   03.87 %
 ```
 
 <!--END_SECTION:waka-->
