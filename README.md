@@ -37,15 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 23 hrs 1 min
+Total Time: 18 hrs 9 mins
 
-Svelte       9 hrs 44 mins   ||||||||||---------------   40.40 %
-Go           6 hrs 10 mins   ||||||-------------------   25.61 %
-TypeScript   2 hrs 39 mins   |||----------------------   11.04 %
-Docker       1 hr 5 mins     |------------------------   04.56 %
-Other        1 hr 5 mins     |------------------------   04.55 %
+Svelte       9 hrs 44 mins   |||||||||||||------------   52.78 %
+Go           3 hrs 15 mins   ||||---------------------   17.67 %
+TypeScript   2 hrs 39 mins   ||||---------------------   14.43 %
+YAML         27 mins         |------------------------   02.46 %
+JSON         25 mins         |------------------------   02.26 %
+HTML         24 mins         |------------------------   02.17 %
+Other        19 mins         -------------------------   01.74 %
 ```
 
 <!--END_SECTION:waka-->
