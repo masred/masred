@@ -37,15 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 8 hrs 8 mins
+Total Time: 10 hrs 45 mins
 
-Go             3 hrs 30 mins   ||||||||||---------------   40.74 %
-Markdown       1 hr 24 mins    ||||---------------------   16.27 %
-Bash           51 mins         ||-----------------------   09.99 %
-TypeScript     35 mins         ||-----------------------   06.82 %
-Other          28 mins         |------------------------   05.58 %
+Go             3 hrs 30 mins   ||||||||-----------------   30.50 %
+TypeScript     1 hr 31 mins    |||----------------------   13.25 %
+Markdown       1 hr 24 mins    |||----------------------   12.18 %
+Bash           1 hr 18 mins    |||----------------------   11.36 %
+YAML           45 mins         ||-----------------------   06.62 %
+Other          45 mins         ||-----------------------   06.54 %
 ```
 
 <!--END_SECTION:waka-->
