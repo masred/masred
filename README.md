@@ -37,16 +37,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 9 hrs 52 mins
+Total Time: 5 hrs 47 mins
 
-TypeScript   5 hrs 30 mins   |||||||||||||------------   53.00 %
-Bash         1 hr 46 mins    ||||---------------------   17.15 %
-JSON         45 mins         ||-----------------------   07.32 %
-HTML         38 mins         ||-----------------------   06.22 %
-Svelte       32 mins         |------------------------   05.18 %
-Other        30 mins         |------------------------   04.97 %
+TypeScript        3 hrs 4 mins    |||||||||||||------------   51.63 %
+Bash              1 hr 13 mins    |||||--------------------   20.65 %
+Svelte            32 mins         ||-----------------------   09.01 %
+JSON              18 mins         |------------------------   05.07 %
+Git Config        13 mins         |------------------------   03.68 %
+Other             10 mins         |------------------------   02.96 %
 ```
 
 <!--END_SECTION:waka-->
