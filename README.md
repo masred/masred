@@ -37,20 +37,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Total Time: 17 hrs 39 mins
+Total Time: 20 hrs 1 min
 
-Markdown          4 hrs 15 mins   ||||||-------------------   23.98 %
-YAML              4 hrs 9 mins    ||||||-------------------   23.41 %
-Go                3 hrs 55 mins   ||||||-------------------   22.13 %
-JavaScript        2 hrs 31 mins   ||||---------------------   14.26 %
-TypeScript        50 mins         |------------------------   04.73 %
-JSON              48 mins         |------------------------   04.54 %
-Docker            17 mins         -------------------------   01.65 %
-Makefile          16 mins         -------------------------   01.51 %
-Image (svg)       15 mins         -------------------------   01.46 %
-Other             6 mins          -------------------------   00.56 %
+Go                5 hrs 13 mins   ||||||-------------------   25.68 %
+Markdown          4 hrs 48 mins   ||||||-------------------   23.62 %
+YAML              4 hrs 10 mins   |||||--------------------   20.56 %
+JavaScript        2 hrs 45 mins   |||----------------------   13.56 %
+TypeScript        56 mins         |------------------------   04.61 %
+JSON              55 mins         |------------------------   04.54 %
+Other             18 mins         -------------------------   01.49 %
 ```
 
 <!--END_SECTION:waka-->
