@@ -15,17 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-Total Time: 7 hrs 56 mins
+Total Time: 8 hrs 6 mins
 
-Go           2 hrs 30 mins         |||||||------------------   29.94 %
-Python       1 hr 12 mins          ||||---------------------   14.48 %
-TypeScript   46 mins               ||-----------------------   09.23 %
-Markdown     44 mins               ||-----------------------   08.81 %
-Docker       31 mins               ||-----------------------   06.21 %
-YAML         29 mins               |------------------------   05.83 %
-Other        26 mins               |------------------------   05.18 %
+Go           3 hrs 34 mins         ||||||||||---------------   41.64 %
+Python       1 hr 39 mins          |||||--------------------   19.27 %
+XML          42 mins               ||-----------------------   08.30 %
+Other        29 mins               |------------------------   05.76 %
 ```
 
 <!--END_SECTION:waka-->
