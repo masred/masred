@@ -15,14 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 14 hrs 14 mins
+Total Time: 14 hrs 11 mins
 
-Go           8 hrs 17 mins         ||||||||||||||-----------   55.06 %
-Markdown     1 hr 49 mins          |||----------------------   12.13 %
-JSON         1 hr 10 mins          ||-----------------------   07.84 %
-Other        49 mins               |------------------------   05.49 %
+Go           6 hrs 37 mins         |||||||||||--------------   44.70 %
+Markdown     1 hr 54 mins          |||----------------------   12.93 %
+Svelte       1 hr 16 mins          ||-----------------------   08.60 %
+JSON         1 hr 10 mins          ||-----------------------   07.97 %
+YAML         58 mins               ||-----------------------   06.52 %
+XML          39 mins               |------------------------   04.44 %
+Other        38 mins               |------------------------   04.28 %
 ```
 
 <!--END_SECTION:waka-->
