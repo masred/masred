@@ -15,13 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 42 mins
+Total Time: 43 mins
 
-JSON         19 mins               |||||||||||--------------   45.43 %
-TypeScript   18 mins               |||||||||||--------------   43.67 %
-Svelte       4 mins                |||----------------------   10.90 %
+JSON         19 mins               |||||||||||--------------   43.76 %
+TypeScript   18 mins               |||||||||||--------------   42.06 %
+Svelte       4 mins                |||----------------------   10.50 %
+Markdown     1 min                 |------------------------   03.68 %
 ```
 
 <!--END_SECTION:waka-->
