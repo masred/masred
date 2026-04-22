@@ -15,17 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 5 hrs 31 mins
+Total Time: 3 hrs 27 mins
 
-Go           2 hrs 42 mins         ||||||||||||-------------   48.03 %
-TypeScript   1 hr 53 mins          ||||||||-----------------   33.61 %
-Bash         15 mins               |------------------------   04.52 %
-JSON         14 mins               |------------------------   04.21 %
-TSConfig     9 mins                |------------------------   02.94 %
-Markdown     7 mins                |------------------------   02.09 %
-Other        7 mins                |------------------------   02.07 %
+Go           1 hr 6 mins           ||||||||-----------------   31.02 %
+TypeScript   1 hr                  |||||||------------------   28.09 %
+Bash         43 mins               |||||--------------------   20.34 %
+TSConfig     9 mins                |------------------------   04.64 %
+JSON         8 mins                |------------------------   03.95 %
+Markdown     7 mins                |------------------------   03.35 %
+Other        7 mins                |------------------------   03.27 %
 ```
 
 <!--END_SECTION:waka-->
