@@ -15,17 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Total Time: 6 hrs 43 mins
+Total Time: 4 hrs 41 mins
 
-Markdown     1 hr 46 mins          ||||||-------------------   25.51 %
-Go           1 hr 12 mins          ||||---------------------   17.33 %
-Python       1 hr 12 mins          ||||---------------------   17.30 %
-TypeScript   1 hr 9 mins           ||||---------------------   16.54 %
-Bash         34 mins               ||-----------------------   08.24 %
-Text         26 mins               ||-----------------------   06.29 %
-Other        13 mins               |------------------------   03.21 %
+Markdown     1 hr 48 mins          |||||||||----------------   37.46 %
+Python       1 hr 12 mins          ||||||-------------------   25.02 %
+Bash         28 mins               ||-----------------------   09.92 %
+Go           28 mins               ||-----------------------   09.87 %
+Text         26 mins               ||-----------------------   09.10 %
+TypeScript   8 mins                |------------------------   03.05 %
+Other        6 mins                |------------------------   02.23 %
 ```
 
 <!--END_SECTION:waka-->
