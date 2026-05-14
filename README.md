@@ -15,17 +15,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 May 2026 - To: 11 May 2026
+From: 06 May 2026 - To: 13 May 2026
 
-Total Time: 17 hrs 53 mins
+Total Time: 12 hrs 27 mins
 
-Go             10 hrs 23 mins        ||||||||||||||-----------   56.41 %
-JavaScript     1 hr 45 mins          ||-----------------------   09.57 %
-Bash           1 hr 16 mins          ||-----------------------   06.95 %
-Python         1 hr 7 mins           ||-----------------------   06.06 %
-Markdown       52 mins               |------------------------   04.75 %
-Git Config     35 mins               |------------------------   03.21 %
-Other          32 mins               |------------------------   02.96 %
+Go           8 hrs 6 mins          ||||||||||||||||---------   63.87 %
+Python       1 hr 7 mins           ||-----------------------   08.80 %
+Bash         1 hr 1 min            ||-----------------------   08.08 %
+Markdown     37 mins               |------------------------   04.95 %
+JavaScript   28 mins               |------------------------   03.70 %
+Svelte       22 mins               |------------------------   02.94 %
+Git Config   14 mins               -------------------------   01.86 %
+Other        13 mins               -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
