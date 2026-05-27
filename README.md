@@ -15,16 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Total Time: 2 hrs 1 min
+Total Time: 17 mins
 
-Go           1 hr 11 mins          |||||||||||||||----------   58.88 %
-YAML         21 mins               ||||---------------------   17.72 %
-Bash         14 mins               |||----------------------   12.07 %
-Markdown     10 mins               ||-----------------------   09.07 %
-Git Config   2 mins                |------------------------   02.21 %
-Other        0 secs                -------------------------   00.05 %
+Bash   13 mins               ||||||||||||||||||||-----   78.73 %
+Go     3 mins                |||||--------------------   21.27 %
 ```
 
 <!--END_SECTION:waka-->
