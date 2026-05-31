@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 May 2026 - To: 28 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Total Time: 3 hrs 59 mins
+Total Time: 3 hrs 39 mins
 
-Go           2 hrs 42 mins         ||||||||||||||||---------   64.76 %
-YAML         32 mins               |||----------------------   12.96 %
-Python       15 mins               ||-----------------------   06.05 %
-Markdown     14 mins               |------------------------   05.88 %
-Other        10 mins               |------------------------   04.35 %
+Go           2 hrs 37 mins         |||||||||||||||||--------   68.50 %
+YAML         16 mins               ||-----------------------   07.28 %
+Python       15 mins               ||-----------------------   06.58 %
+Markdown     14 mins               ||-----------------------   06.39 %
+Other        10 mins               |------------------------   04.73 %
 ```
 
 <!--END_SECTION:waka-->
