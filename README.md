@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 August 2026 - To: 26 August 2026
+From: 20 August 2026 - To: 27 August 2026
 
-Total Time: 32 hrs 46 mins
+Total Time: 26 hrs 56 mins
 
-Go                19 hrs 12 mins        |||||||||||||------------   51.04 %
-Other             4 hrs 50 mins         |||----------------------   12.89 %
+Go                15 hrs 47 mins        ||||||||||---------------   39.75 %
+Other             12 hrs 48 mins        ||||||||-----------------   32.23 %
 ```
 
 <!--END_SECTION:waka-->
