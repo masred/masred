@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-Total Time: 27 hrs 55 mins
+Total Time: 24 hrs 56 mins
 
-Other          17 hrs 46 mins        ||||||||||---------------   38.90 %
+Other          12 hrs 54 mins        |||||||||----------------   34.11 %
 ```
 
 <!--END_SECTION:waka-->
