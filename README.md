@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-Total Time: 42 hrs
+Total Time: 36 hrs 37 mins
 
-Go             24 hrs 43 mins        |||||||||||||------------   53.88 %
-Markdown       9 hrs 34 mins         |||||--------------------   20.86 %
-Other          3 hrs 53 mins         ||-----------------------   08.48 %
+Go             21 hrs 30 mins        |||||||||||||------------   53.93 %
+Markdown       8 hrs 35 mins         |||||--------------------   21.53 %
+Other          3 hrs 15 mins         ||-----------------------   08.16 %
 ```
 
 <!--END_SECTION:waka-->
