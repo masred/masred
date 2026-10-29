@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 47 hrs 13 mins
+Total Time: 44 hrs 17 mins
 
-TypeScript     21 hrs 33 mins        |||||||||||--------------   42.01 %
-Svelte         8 hrs 3 mins          ||||---------------------   15.70 %
-Markdown       5 hrs 22 mins         |||----------------------   10.48 %
-PHP            4 hrs 47 mins         ||-----------------------   09.32 %
-Other          4 hrs 5 mins          ||-----------------------   07.98 %
+TypeScript     19 hrs 26 mins        ||||||||||---------------   40.29 %
+Svelte         7 hrs 8 mins          ||||---------------------   14.80 %
+Markdown       5 hrs 50 mins         |||----------------------   12.10 %
+PHP            4 hrs 47 mins         ||-----------------------   09.92 %
+Other          3 hrs 56 mins         ||-----------------------   08.16 %
 ```
 
 <!--END_SECTION:waka-->
