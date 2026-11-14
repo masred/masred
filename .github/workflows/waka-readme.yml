@@ -63,3 +63,27 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
           COMMIT_MESSAGE: "Updated all-time waka-readme metrics"
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: Pull latest updates from waka-readme
+        run: git pull origin main
+
+      - name: Update IDE, OS, AI, and Heatmap metrics
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 scripts/update_extra_metrics.py
+
+      - name: Commit and push extra metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "Updated IDE, OS, AI, and heatmap metrics"
+            git push origin main
+          fi

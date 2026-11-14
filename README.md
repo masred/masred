@@ -65,3 +65,73 @@ Markdown                   98 hrs 20 mins        |------------------------   03.
 ```
 
 <!--END_SECTION:wakaalltime-->
+
+### 💻 Editors & Platforms
+<!--START_SECTION:wakaeditors-->
+
+```text
+⚡ Recent Editors (Last 7 Days):
+Zed                56 hrs 47 mins       ||||||||||||||||||------   72.96 %
+Antigravity        21 hrs 3 mins        ||||||------------------   27.04 %
+
+💻 All-Time Editors:
+VS Code            1,793 hrs 52 mins    ||||||||||||||||--------   68.65 %
+Zed                348 hrs 2 mins       |||---------------------   13.32 %
+Antigravity        269 hrs 9 mins       ||----------------------   10.30 %
+Antigravity CLI    159 hrs 39 mins      |-----------------------   06.11 %
+Cursor             15 hrs 19 mins       ------------------------   00.59 %
+
+🐧 Operating Systems (All-Time):
+WSL                1,631 hrs 35 mins    |||||||||||||||---------   62.44 %
+Linux              976 hrs 42 mins      |||||||||---------------   37.38 %
+Windows            4 hrs 41 mins        ------------------------   00.18 %
+```
+
+<!--END_SECTION:wakaeditors-->
+
+### 🤖 AI Coding & Productivity
+<!--START_SECTION:wakaproductivity-->
+
+```text
+⚡ Productivity:
+Daily Average:      8 hrs 17 mins / day (Last 7 Days) • 2 hrs 48 mins / day (All Time)
+Best Day:           14 hrs 28 mins (2026-11-07)
+Total Coded:        2,449 hrs 57 mins
+
+🤖 AI Coding Metrics (All-Time):
+AI Additions:       276,895 lines (33.86 %)
+Human Additions:    540,819 lines (66.14 %)
+
+Top AI Models Used:
+GPT                66,526 lines       ||||||||----------------   32.14 %
+OMP                61,961 lines       |||||||-----------------   29.94 %
+Gemini             33,952 lines       ||||--------------------   16.40 %
+Spark              24,974 lines       |||---------------------   12.07 %
+Jev                6,951 lines        |-----------------------   03.36 %
+Claude             4,184 lines        ------------------------   02.02 %
+```
+
+<!--END_SECTION:wakaproductivity-->
+
+### 📊 Activity Heatmap (Last 14 Days)
+<!--START_SECTION:wakaheatmap-->
+
+```text
+Last 14 Days Coding Activity:
+01 Nov (Sun)    2 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░
+02 Nov (Mon)    8 hrs 23 mins      ██████████████░░░░░░░░░░
+03 Nov (Tue)    5 hrs 8 mins       ████████░░░░░░░░░░░░░░░░
+04 Nov (Wed)    5 hrs 1 min        ████████░░░░░░░░░░░░░░░░
+05 Nov (Thu)    4 hrs 54 mins      ████████░░░░░░░░░░░░░░░░
+06 Nov (Fri)    9 hrs 33 mins      ████████████████░░░░░░░░
+07 Nov (Sat)    14 hrs 28 mins     ████████████████████████
+08 Nov (Sun)    14 hrs 44 mins     ████████████████████████
+09 Nov (Mon)    8 hrs 8 mins       █████████████░░░░░░░░░░░
+10 Nov (Tue)    9 hrs 25 mins      ███████████████░░░░░░░░░
+11 Nov (Wed)    11 hrs 52 mins     ███████████████████░░░░░
+12 Nov (Thu)    6 hrs 38 mins      ███████████░░░░░░░░░░░░░
+13 Nov (Fri)    12 hrs 34 mins     ████████████████████░░░░
+14 Nov (Sat)    6 hrs 42 mins      ███████████░░░░░░░░░░░░░
+```
+
+<!--END_SECTION:wakaheatmap-->
