@@ -40,6 +40,10 @@ Total Time: 190 hrs 44 mins
 
 TypeScript        80 hrs 23 mins        |||||||||----------------   35.24 %
 Other             37 hrs 24 mins        ||||---------------------   16.40 %
+Svelte            27 hrs 32 mins        |||----------------------   12.07 %
+Go                25 hrs 47 mins        |||----------------------   11.31 %
+Markdown          19 hrs 2 mins         ||-----------------------   08.35 %
+JSON              8 hrs 55 mins         |------------------------   03.91 %
 ```
 
 <!--END_SECTION:wakamonthly-->
