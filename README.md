@@ -14,6 +14,16 @@
 
 ### ⏱️ Last 7 Days
 <!--START_SECTION:wakaweekly-->
+
+```text
+From: 06 November 2026 - To: 13 November 2026
+
+Total Time: 58 hrs 5 mins
+
+TypeScript        25 hrs 47 mins        ||||||||-----------------   33.12 %
+Other             19 hrs 44 mins        ||||||-------------------   25.37 %
+```
+
 <!--END_SECTION:wakaweekly-->
 
 ### 📅 Last 30 Days
