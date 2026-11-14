@@ -23,11 +23,11 @@ jobs:
           BLOCKS: -|
           CODE_LANG: text
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           COMMIT_MESSAGE: "Updated weekly waka-readme metrics"
 
       - name: Update Monthly Stats
@@ -40,11 +40,11 @@ jobs:
           BLOCKS: -|
           CODE_LANG: text
           TIME_RANGE: last_30_days
-          LANG_COUNT: 10
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           COMMIT_MESSAGE: "Updated monthly waka-readme metrics"
 
       - name: Update All-Time Stats
@@ -57,9 +57,9 @@ jobs:
           BLOCKS: -|
           CODE_LANG: text
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           COMMIT_MESSAGE: "Updated all-time waka-readme metrics"
