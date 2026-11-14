@@ -13,14 +13,47 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update Weekly Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
           API_BASE_URL: https://wakatime.com/api
-          # content
           SHOW_TITLE: true
-          SECTION_NAME: waka
+          SECTION_NAME: waka-weekly
+          BLOCKS: -|
+          CODE_LANG: text
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: "Updated weekly waka-readme metrics"
+
+      - name: Update Monthly Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
+          SHOW_TITLE: true
+          SECTION_NAME: waka-monthly
+          BLOCKS: -|
+          CODE_LANG: text
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: "Updated monthly waka-readme metrics"
+
+      - name: Update All-Time Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
+          SHOW_TITLE: true
+          SECTION_NAME: waka-all-time
           BLOCKS: -|
           CODE_LANG: text
           TIME_RANGE: all_time
@@ -29,3 +62,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
+          COMMIT_MESSAGE: "Updated all-time waka-readme metrics"

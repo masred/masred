@@ -12,17 +12,14 @@
 
 ## 📝 **Activities**
 
-<!--START_SECTION:waka-->
+### ⏱️ Last 7 Days
+<!--START_SECTION:waka-weekly-->
+<!--END_SECTION:waka-weekly-->
 
-```text
-From: 06 June 2023 - To: 13 November 2026
+### 📅 Last 30 Days
+<!--START_SECTION:waka-monthly-->
+<!--END_SECTION:waka-monthly-->
 
-Total Time: 2,449 hrs 57 mins
-
-Go                         927 hrs 22 mins       |||||||||----------------   35.49 %
-Python                     443 hrs 54 mins       ||||---------------------   16.99 %
-XML                        214 hrs 5 mins        ||-----------------------   08.19 %
-Other                      163 hrs 1 min         ||-----------------------   06.24 %
-```
-
-<!--END_SECTION:waka-->
+### ⏳ All Time
+<!--START_SECTION:waka-all-time-->
+<!--END_SECTION:waka-all-time-->
