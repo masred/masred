@@ -22,6 +22,10 @@ Total Time: 58 hrs 5 mins
 
 TypeScript        25 hrs 47 mins        ||||||||-----------------   33.12 %
 Other             19 hrs 44 mins        ||||||-------------------   25.37 %
+Go                8 hrs 5 mins          |||----------------------   10.40 %
+Svelte            8 hrs                 |||----------------------   10.29 %
+YAML              3 hrs 47 mins         |------------------------   04.86 %
+JSON              3 hrs 11 mins         |------------------------   04.09 %
 ```
 
 <!--END_SECTION:wakaweekly-->
