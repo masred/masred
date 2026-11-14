@@ -28,6 +28,16 @@ Other             19 hrs 44 mins        ||||||-------------------   25.37 %
 
 ### 📅 Last 30 Days
 <!--START_SECTION:wakamonthly-->
+
+```text
+From: 14 October 2026 - To: 13 November 2026
+
+Total Time: 190 hrs 44 mins
+
+TypeScript        80 hrs 23 mins        |||||||||----------------   35.24 %
+Other             37 hrs 24 mins        ||||---------------------   16.40 %
+```
+
 <!--END_SECTION:wakamonthly-->
 
 ### ⏳ All Time
