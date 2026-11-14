@@ -10,6 +10,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -20,8 +22,8 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: -|
-          CODE_LANG: all_time
-          TIME_RANGE: true
+          CODE_LANG: text
+          TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
