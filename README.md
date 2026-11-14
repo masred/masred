@@ -13,13 +13,13 @@
 ## 📝 **Activities**
 
 ### ⏱️ Last 7 Days
-<!--START_SECTION:waka-weekly-->
-<!--END_SECTION:waka-weekly-->
+<!--START_SECTION:wakaweekly-->
+<!--END_SECTION:wakaweekly-->
 
 ### 📅 Last 30 Days
-<!--START_SECTION:waka-monthly-->
-<!--END_SECTION:waka-monthly-->
+<!--START_SECTION:wakamonthly-->
+<!--END_SECTION:wakamonthly-->
 
 ### ⏳ All Time
-<!--START_SECTION:waka-all-time-->
-<!--END_SECTION:waka-all-time-->
+<!--START_SECTION:wakaalltime-->
+<!--END_SECTION:wakaalltime-->
