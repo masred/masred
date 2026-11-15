@@ -16,16 +16,16 @@
 <!--START_SECTION:wakaweekly-->
 
 ```text
-From: 06 November 2026 - To: 13 November 2026
+From: 07 November 2026 - To: 14 November 2026
 
-Total Time: 58 hrs 5 mins
+Total Time: 58 hrs
 
-TypeScript        25 hrs 47 mins        ||||||||-----------------   33.12 %
-Other             19 hrs 44 mins        ||||||-------------------   25.37 %
-Go                8 hrs 5 mins          |||----------------------   10.40 %
-Svelte            8 hrs                 |||----------------------   10.29 %
-YAML              3 hrs 47 mins         |------------------------   04.86 %
-JSON              3 hrs 11 mins         |------------------------   04.09 %
+TypeScript        25 hrs 33 mins        ||||||||-----------------   33.62 %
+Other             17 hrs 59 mins        ||||||-------------------   23.68 %
+Svelte            8 hrs 16 mins         |||----------------------   10.89 %
+Go                8 hrs 2 mins          |||----------------------   10.57 %
+YAML              3 hrs 59 mins         |------------------------   05.24 %
+Markdown          2 hrs 33 mins         |------------------------   03.37 %
 ```
 
 <!--END_SECTION:wakaweekly-->
