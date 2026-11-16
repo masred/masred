@@ -71,19 +71,19 @@ Markdown                   99 hrs 11 mins        |------------------------   03.
 
 ```text
 ⚡ Recent Editors (Last 7 Days):
-Zed                58 hrs 50 mins       |||||||||||||||||||-----   77.42 %
-Antigravity        17 hrs 9 mins        |||||-------------------   22.58 %
+Zed                53 hrs 23 mins       |||||||||||||||||||-----   79.27 %
+Antigravity        13 hrs 57 mins       |||||-------------------   20.73 %
 
 💻 All-Time Editors:
-VS Code            1,793 hrs 52 mins    ||||||||||||||||--------   68.32 %
-Zed                358 hrs 30 mins      |||---------------------   13.65 %
-Antigravity        271 hrs 19 mins      ||----------------------   10.33 %
-Antigravity CLI    159 hrs 39 mins      |-----------------------   06.08 %
+VS Code            1,793 hrs 52 mins    ||||||||||||||||--------   68.16 %
+Zed                364 hrs 35 mins      |||---------------------   13.85 %
+Antigravity        271 hrs 19 mins      ||----------------------   10.31 %
+Antigravity CLI    159 hrs 39 mins      |-----------------------   06.07 %
 Cursor             15 hrs 19 mins       ------------------------   00.58 %
 
 🐧 Operating Systems (All-Time):
-WSL                1,644 hrs 13 mins    |||||||||||||||---------   62.62 %
-Linux              976 hrs 42 mins      |||||||||---------------   37.20 %
+WSL                1,650 hrs 18 mins    |||||||||||||||---------   62.71 %
+Linux              976 hrs 42 mins      |||||||||---------------   37.11 %
 Windows            4 hrs 41 mins        ------------------------   00.18 %
 ```
 
@@ -94,19 +94,19 @@ Windows            4 hrs 41 mins        ------------------------   00.18 %
 
 ```text
 ⚡ Productivity:
-Daily Average:      8 hrs 17 mins / day (Last 7 Days) • 2 hrs 49 mins / day (All Time)
+Daily Average:      6 hrs 54 mins / day (Last 7 Days) • 2 hrs 49 mins / day (All Time)
 Best Day:           14 hrs 28 mins (2026-11-07)
-Total Coded:        2,459 hrs 5 mins
+Total Coded:        2,463 hrs 26 mins
 
 🤖 AI Coding Metrics (All-Time):
-AI Additions:       277,423 lines (33.90 %)
-Human Additions:    540,841 lines (66.10 %)
+AI Additions:       277,508 lines (33.90 %)
+Human Additions:    541,050 lines (66.10 %)
 
 Top AI Models Used:
-GPT                66,526 lines       ||||||||----------------   32.06 %
-OMP                61,961 lines       |||||||-----------------   29.86 %
-Gemini             34,480 lines       ||||--------------------   16.62 %
-Spark              24,974 lines       |||---------------------   12.04 %
+GPT                66,526 lines       ||||||||----------------   32.05 %
+OMP                61,961 lines       |||||||-----------------   29.85 %
+Gemini             34,565 lines       ||||--------------------   16.65 %
+Spark              24,974 lines       |||---------------------   12.03 %
 Jev                6,951 lines        |-----------------------   03.35 %
 Claude             4,184 lines        ------------------------   02.02 %
 ```
@@ -118,7 +118,6 @@ Claude             4,184 lines        ------------------------   02.02 %
 
 ```text
 Last 14 Days Coding Activity:
-02 Nov (Mon)    8 hrs 23 mins      ██████████████░░░░░░░░░░
 03 Nov (Tue)    5 hrs 8 mins       ████████░░░░░░░░░░░░░░░░
 04 Nov (Wed)    5 hrs 1 min        ████████░░░░░░░░░░░░░░░░
 05 Nov (Thu)    4 hrs 54 mins      ████████░░░░░░░░░░░░░░░░
@@ -131,7 +130,8 @@ Last 14 Days Coding Activity:
 12 Nov (Thu)    6 hrs 38 mins      ███████████░░░░░░░░░░░░░
 13 Nov (Fri)    12 hrs 34 mins     ████████████████████░░░░
 14 Nov (Sat)    14 hrs 42 mins     ████████████████████████
-15 Nov (Sun)    1 hr 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░
+15 Nov (Sun)    7 hrs 43 mins      █████████████░░░░░░░░░░░
+16 Nov (Mon)    36 mins            █░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:wakaheatmap-->
