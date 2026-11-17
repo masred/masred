@@ -2,10 +2,16 @@
 
 ## 📊 Stats:
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=masred&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masred&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=masred&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=masred&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ## 📝 **Activities**
 
