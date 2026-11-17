@@ -7,83 +7,34 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-metrics:
+    name: Update Dev Metrics & Telemetry
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Update Weekly Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakatime.com/api
-          SHOW_TITLE: true
-          SECTION_NAME: wakaweekly
-          BLOCKS: -|
-          CODE_LANG: text
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 6
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
-          COMMIT_MESSAGE: "Updated weekly waka-readme metrics"
-
-      - name: Update Monthly Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakatime.com/api
-          SHOW_TITLE: true
-          SECTION_NAME: wakamonthly
-          BLOCKS: -|
-          CODE_LANG: text
-          TIME_RANGE: last_30_days
-          LANG_COUNT: 6
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
-          COMMIT_MESSAGE: "Updated monthly waka-readme metrics"
-
-      - name: Update All-Time Stats
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakatime.com/api
-          SHOW_TITLE: true
-          SECTION_NAME: wakaalltime
-          BLOCKS: -|
-          CODE_LANG: text
-          TIME_RANGE: all_time
-          LANG_COUNT: 6
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
-          COMMIT_MESSAGE: "Updated all-time waka-readme metrics"
-
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
-      - name: Pull latest updates from waka-readme
-        run: git pull origin main
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Update IDE, OS, AI, and Heatmap metrics
+      - name: Update all metrics
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python3 scripts/update_extra_metrics.py
 
-      - name: Commit and push extra metrics
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet README.md; then
             git add README.md
-            git commit -m "Updated IDE, OS, AI, and heatmap metrics"
+            git commit -m "chore(metrics): update dev metrics & telemetry"
             git push origin main
           fi
