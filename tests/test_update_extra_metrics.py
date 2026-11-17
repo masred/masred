@@ -53,26 +53,26 @@ def test_safe_helpers():
 
 def test_make_bar_boundaries():
     # 0 percent
-    assert make_bar(0.0, 24) == "░" * 24
+    assert make_bar(0.0, 24) == "-" * 24
     # Negative percent clamped to 0
-    assert make_bar(-10.0, 24) == "░" * 24
+    assert make_bar(-10.0, 24) == "-" * 24
     # 100 percent
-    assert make_bar(100.0, 24) == "█" * 24
+    assert make_bar(100.0, 24) == "|" * 24
     # Over 100 clamped to 24
-    assert make_bar(150.0, 24) == "█" * 24
+    assert make_bar(150.0, 24) == "|" * 24
     # 50 percent
-    assert make_bar(50.0, 24) == ("█" * 12) + ("░" * 12)
+    assert make_bar(50.0, 24) == ("|" * 12) + ("-" * 12)
     # Check 33.12% -> 8 filled
-    assert make_bar(33.12, 24) == ("█" * 8) + ("░" * 16)
+    assert make_bar(33.12, 24) == ("|" * 8) + ("-" * 16)
     # Custom length
-    assert make_bar(50.0, 10) == "█████░░░░░"
+    assert make_bar(50.0, 10) == "|||||-----"
     assert make_bar(50.0, 0) == ""
     assert make_bar(50.0, -5) == ""
     # None, nan, inf, string handling
-    assert make_bar(None, 24) == "░" * 24
-    assert make_bar(float("nan"), 24) == "░" * 24
-    assert make_bar(float("inf"), 24) == "░" * 24
-    assert make_bar("50.0", 24) == ("█" * 12) + ("░" * 12)
+    assert make_bar(None, 24) == "-" * 24
+    assert make_bar(float("nan"), 24) == "-" * 24
+    assert make_bar(float("inf"), 24) == "-" * 24
+    assert make_bar("50.0", 24) == ("|" * 12) + ("-" * 12)
 
 
 def test_format_block_empty():
@@ -93,7 +93,7 @@ def test_format_block_formatting():
     assert "TypeScript" in lines[0]
     assert "25 hrs 47 mins" in lines[0]
     assert "33.12 %" in lines[0]
-    assert "████████░░░░░░░░░░░░░░░░" in lines[0]
+    assert "||||||||----------------" in lines[0]
 
 
 def test_format_block_with_none_and_missing_keys():
@@ -617,7 +617,7 @@ def test_generate_heatmap_section():
     assert len(lines) == 7
     assert "08 Nov (Sun)" in lines[0]
     assert "14 hrs 44 mins" in lines[0]
-    assert "████████████████████████" in lines[0]
+    assert "||||||||||||||||||||||||" in lines[0]
     assert "14 Nov (Sat)" in lines[6]
 
     # > 7 days (should take last 7)

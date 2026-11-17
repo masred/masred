@@ -108,7 +108,7 @@ def make_bar(percent, length=24):
     p = safe_float(percent, 0.0)
     filled = int(round((p / 100.0) * bar_len))
     filled = max(0, min(bar_len, filled))
-    return "█" * filled + "░" * (bar_len - filled)
+    return "|" * filled + "-" * (bar_len - filled)
 
 
 def format_seconds(total_seconds):
