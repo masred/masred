@@ -23,32 +23,32 @@
 <!--START_SECTION:wakaweekly-->
 
 ```text
-From: 13 November 2026 - To: 20 November 2026
+From: 14 November 2026 - To: 21 November 2026
 
-Total Time: 57 hrs 28 mins
+Total Time: 57 hrs 45 mins
 
 💻 Languages:
-TypeScript         30 hrs 52 mins       |||||||||---------------   39.21 %
-Other              21 hrs 16 mins       ||||||------------------   27.01 %
-PHP                8 hrs 3 mins         ||----------------------   10.23 %
-Markdown           5 hrs 54 mins        ||----------------------   07.50 %
-Svelte             5 hrs 22 mins        ||----------------------   06.84 %
-YAML               2 hrs 30 mins        |-----------------------   03.20 %
+TypeScript         33 hrs 36 mins       ||||||||||--------------   41.89 %
+Other              22 hrs 27 mins       |||||||-----------------   27.99 %
+PHP                8 hrs 3 mins         ||----------------------   10.05 %
+Markdown           5 hrs 14 mins        ||----------------------   06.54 %
+YAML               3 hrs 3 mins         |-----------------------   03.81 %
+Svelte             2 hrs 58 mins        |-----------------------   03.72 %
 
 🛠️ Tools & Editors:
-Zed                76 hrs 31 mins       |||||||||||||||||||||||-   97.19 %
-Antigravity        2 hrs 12 mins        |-----------------------   02.81 %
+Zed                80 hrs 9 mins        ||||||||||||||||||||||||   99.93 %
+Antigravity        3 mins               ------------------------   00.07 %
 
 🖥️ Operating Systems:
-WSL                78 hrs 44 mins       ||||||||||||||||||||||||   100.00 %
+WSL                80 hrs 12 mins       ||||||||||||||||||||||||   100.00 %
 
 🤖 AI Coding Metrics:
-AI Additions:       17,968 lines (96.01 %)
-Human Additions:    747 lines (03.99 %)
+AI Additions:       16,865 lines (95.88 %)
+Human Additions:    725 lines (04.12 %)
 
 Top AI Models:
-GPT                13,072 lines         ||||||||||||||||||------   73.90 %
-Gemini             4,617 lines          ||||||------------------   26.10 %
+GPT                12,749 lines         ||||||||||||||||||------   76.87 %
+Gemini             3,837 lines          ||||||------------------   23.13 %
 ```
 
 <!--END_SECTION:wakaweekly-->
@@ -61,35 +61,35 @@ Gemini             4,617 lines          ||||||------------------   26.10 %
 <!--START_SECTION:wakamonthly-->
 
 ```text
-From: 20 October 2026 - To: 19 November 2026
+From: 21 October 2026 - To: 20 November 2026
 
-Total Time: 196 hrs 47 mins
+Total Time: 202 hrs 47 mins
 
 💻 Languages:
-TypeScript         91 hrs 18 mins       |||||||||---------------   37.22 %
-Other              48 hrs 30 mins       |||||-------------------   19.77 %
-Svelte             25 hrs 3 mins        ||----------------------   10.22 %
-Go                 19 hrs 3 mins        ||----------------------   07.77 %
-Markdown           16 hrs 13 mins       ||----------------------   06.62 %
-PHP                11 hrs 2 mins        |-----------------------   04.50 %
+TypeScript         95 hrs 42 mins       |||||||||---------------   37.74 %
+Other              50 hrs 46 mins       |||||-------------------   20.02 %
+Svelte             24 hrs 27 mins       ||----------------------   09.65 %
+Go                 19 hrs 3 mins        ||----------------------   07.51 %
+Markdown           17 hrs 2 mins        ||----------------------   06.72 %
+PHP                12 hrs 50 mins       |-----------------------   05.07 %
 
 🛠️ Tools & Editors:
-Zed                218 hrs 49 mins      |||||||||||||||||||||---   89.21 %
-Antigravity        26 hrs 4 mins        |||---------------------   10.63 %
-OpenCode           23 mins              ------------------------   00.16 %
+Zed                227 hrs 6 mins       |||||||||||||||||||||---   89.56 %
+Antigravity        26 hrs 4 mins        ||----------------------   10.28 %
+OpenCode           23 mins              ------------------------   00.15 %
 
 🖥️ Operating Systems:
-WSL                245 hrs 17 mins      ||||||||||||||||||||||||   100.00 %
+WSL                253 hrs 33 mins      ||||||||||||||||||||||||   100.00 %
 
 🤖 AI Coding Metrics:
-AI Additions:       73,518 lines (94.95 %)
-Human Additions:    3,914 lines (05.05 %)
+AI Additions:       70,617 lines (94.49 %)
+Human Additions:    4,119 lines (05.51 %)
 
 Top AI Models:
-GPT                46,147 lines         |||||||||||||||---------   64.19 %
-Gemini             19,767 lines         |||||||-----------------   27.49 %
-Jev                3,707 lines          |-----------------------   05.16 %
-GLM                2,153 lines          |-----------------------   02.99 %
+GPT                46,610 lines         ||||||||||||||||--------   67.81 %
+Gemini             19,767 lines         |||||||-----------------   28.76 %
+Jev                2,231 lines          |-----------------------   03.25 %
+Opus               115 lines            ------------------------   00.17 %
 ```
 
 <!--END_SECTION:wakamonthly-->
@@ -102,29 +102,29 @@ GLM                2,153 lines          |-----------------------   02.99 %
 <!--START_SECTION:wakaalltime-->
 
 ```text
-From: 06 June 2023 - To: 20 November 2026
+From: 06 June 2023 - To: 21 November 2026
 
-Total Time: 2,502 hrs 17 mins
+Total Time: 2,513 hrs 13 mins
 
 💻 Languages:
-Go                 927 hrs 22 mins      ||||||||----------------   34.58 %
-Python             444 hrs 4 mins       ||||--------------------   16.56 %
-XML                214 hrs 5 mins       ||----------------------   07.98 %
-Other              179 hrs 54 mins      ||----------------------   06.71 %
-TypeScript         165 hrs 49 mins      |-----------------------   06.18 %
-Markdown           103 hrs 25 mins      |-----------------------   03.86 %
+Go                 927 hrs 22 mins      ||||||||----------------   34.37 %
+Python             444 hrs 4 mins       ||||--------------------   16.46 %
+XML                214 hrs 5 mins       ||----------------------   07.93 %
+Other              185 hrs 9 mins       ||----------------------   06.86 %
+TypeScript         172 hrs 52 mins      ||----------------------   06.41 %
+Markdown           103 hrs 31 mins      |-----------------------   03.84 %
 
 🛠️ Tools & Editors:
-VS Code            1,793 hrs 52 mins    ||||||||||||||||--------   66.88 %
-Zed                415 hrs 2 mins       ||||--------------------   15.47 %
-Antigravity        271 hrs 22 mins      ||----------------------   10.12 %
-Antigravity CLI    159 hrs 39 mins      |-----------------------   05.95 %
+VS Code            1,793 hrs 52 mins    ||||||||||||||||--------   66.48 %
+Zed                431 hrs 12 mins      ||||--------------------   15.98 %
+Antigravity        271 hrs 22 mins      ||----------------------   10.06 %
+Antigravity CLI    159 hrs 39 mins      |-----------------------   05.92 %
 Cursor             15 hrs 19 mins       ------------------------   00.57 %
-OMP                12 hrs 12 mins       ------------------------   00.46 %
+OMP                12 hrs 12 mins       ------------------------   00.45 %
 
 🖥️ Operating Systems:
-WSL                1,700 hrs 48 mins    |||||||||||||||---------   63.41 %
-Linux              976 hrs 42 mins      |||||||||---------------   36.41 %
+WSL                1,716 hrs 58 mins    |||||||||||||||---------   63.63 %
+Linux              976 hrs 42 mins      |||||||||---------------   36.20 %
 Windows            4 hrs 41 mins        ------------------------   00.17 %
 
 🤖 AI Coding Metrics:
@@ -149,13 +149,13 @@ Spark              24,974 lines         |||---------------------   11.58 %
 ```text
 ⚡ Productivity:
 Consistency:        7 / 7 active days this week
-Daily Average:      8 hrs 12 mins / day (7 Days) • 2 hrs 51 mins / day (All Time)
-Best Day:           14 hrs 28 mins (2026-11-07)
-Total Coded:        2,502 hrs 17 mins
+Daily Average:      8 hrs 15 mins / day (7 Days) • 2 hrs 51 mins / day (All Time)
+Best Day:           16 hrs 10 mins (2026-11-21)
+Total Coded:        2,513 hrs 13 mins
 
 💻 Top Tools:
-Recent Editors:     Zed (97.19%), Antigravity (2.81%)
-Primary Platforms:  WSL (63.41%), Linux (36.41%)
+Recent Editors:     Zed (99.93%), Antigravity (0.07%)
+Primary Platforms:  WSL (63.63%), Linux (36.20%)
 
 🤖 AI Coding Assistance:
 AI Additions:       285,928 lines (34.55 %)
@@ -175,13 +175,13 @@ Spark              24,974 lines         |||---------------------   11.58 %
 <!--START_SECTION:wakaheatmap-->
 
 ```text
-15 Nov (Sun)    7 hrs 43 mins      |||||||||||||-----------
-16 Nov (Mon)    4 hrs 8 mins       |||||||-----------------
-17 Nov (Tue)    10 hrs 21 mins     |||||||||||||||||-------
-18 Nov (Wed)    13 hrs 15 mins     ||||||||||||||||||||||--
-19 Nov (Thu)    14 hrs 12 mins     ||||||||||||||||||||||||
-20 Nov (Fri)    14 hrs 20 mins     ||||||||||||||||||||||||
-21 Nov (Sat)    6 hrs 43 mins      |||||||||||-------------
+16 Nov (Mon)    4 hrs 8 mins       ||||||------------------
+17 Nov (Tue)    10 hrs 21 mins     ||||||||||||||----------
+18 Nov (Wed)    13 hrs 15 mins     ||||||||||||||||||------
+19 Nov (Thu)    14 hrs 12 mins     ||||||||||||||||||||----
+20 Nov (Fri)    14 hrs 20 mins     ||||||||||||||||||||----
+21 Nov (Sat)    17 hrs 15 mins     ||||||||||||||||||||||||
+22 Nov (Sun)    3 hrs 17 mins      |||||-------------------
 ```
 
 <!--END_SECTION:wakaheatmap-->
